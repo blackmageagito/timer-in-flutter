@@ -1,2 +1,1 @@
-# timer-in-flutter
-Timer application done with Flutter
+Stopwatch Timer application done with Flutter
